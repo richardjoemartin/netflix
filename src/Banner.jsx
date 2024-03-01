@@ -23,7 +23,7 @@ function Banner({fetchUrl}) {
         }}>
             <div className="banner-content">
                 <h1>{movie?.name}</h1>
-                <h2>{movie?.overview}</h2>
+                <h2 style={{width:'90%'}}>{movie?.overview}</h2>
             </div>
     </div>
   )
