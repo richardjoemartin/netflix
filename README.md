@@ -1,5 +1,5 @@
 #Live link of this project:
-[netflix-clone-react-richard.netlify.app]
+[https://netflix-clone-react-richard.netlify.app/]
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
